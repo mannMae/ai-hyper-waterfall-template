@@ -1,6 +1,6 @@
 # Hyper-Waterfall Project Instructions (Antigravity/Gemini)
 
-이 파일은 **Antigravity(Gemini 3 Flash)** 페어 프로그래머가 **Hyper-Waterfall** 방법론을 준수하며 작업할 수 있도록 가이드를 제공합니다.
+이 파일은 **Antigravity(Gemini 3 Flash)** 페어 프로그래머가 **Hyper-Waterfall** 방법론을 준수하며 작업할 수 있도록 가이드를 제공합니다. 처음 투입되었다면 [매뉴얼 로드맵](mydocs/manual/READING_ROADMAP.md)에 따라 관련 문서들을 먼저 학습하십시오.
 
 ## 방법론 개요 (Methodology Overview)
 
@@ -54,4 +54,4 @@
 
 ---
 
-*본 지침은 [rhwp](https://github.com/edwardkim/rhwp) 프로젝트의 실전 개발 경험 및 방법론을 바탕으로 제작된 템플릿입니다.*
+*본 문서는 [rhwp](https://github.com/edwardkim/rhwp) 프로젝트의 실전 개발 경험 및 방법론을 바탕으로 제작된 템플릿입니다. (원본 문서를 복제 및 수정함)*

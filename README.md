@@ -7,6 +7,7 @@ AI 시대의 소프트웨어 개발 방법론: **거시적 워터폴(Macro Water
 이 템플릿은 **Antigravity(Gemini 3 Flash)** 페어 프로그래머와 협업할 때 **품질(규율)**과 **속도**를 동시에 확보하기 위한 문서 체계와 워크플로우를 제공합니다.
 
 - **핵심 문서**: [Hyper-Waterfall 방법론](mydocs/manual/hyper_waterfall.md)
+- **독지 순서**: [매뉴얼 로드맵 (Reading Roadmap)](mydocs/manual/READING_ROADMAP.md) ⬅️ **처음 방문하셨다면 여기부터!**
 - **작업 가이드**: [문서 체계 가이드](mydocs/manual/hyper_waterfall_docs_guide.md)
 
 ## 📁 디렉토리 구조
@@ -45,3 +46,7 @@ AI 시대의 소프트웨어 개발 방법론: **거시적 워터폴(Macro Water
 
 ---
 *본 프로젝트는 [rhwp](https://github.com/edwardkim/rhwp) 프로젝트의 실전 개발 경험을 바탕으로 제작되었습니다.*
+
+---
+
+*본 문서는 [rhwp](https://github.com/edwardkim/rhwp) 프로젝트의 실전 개발 경험 및 방법론을 바탕으로 제작된 템플릿입니다. (원본 문서를 복제 및 수정함)*
