@@ -31,12 +31,30 @@ AI 시대의 소프트웨어 개발 방법론: **거시적 워터폴(Macro Water
     └── templates/         # 계획서/보고서 마크다운 템플릿
 ```
 
-## 🛠 사용 방법
+## 🏁 시작하기 (Getting Started)
 
-1. 이 레포지토리를 클론하거나 템플릿으로 사용하여 새 프로젝트를 시작합니다.
-2. **Antigravity(Gemini)** 에이전트에게 `ANTIGRAVITY.md`를 읽게 하여 워크플로우를 숙지시킵니다.
-3. `mydocs/orders/`에 오늘 할일을 기록하고 타스크를 시작합니다.
-4. 모든 타스크는 **계획(plans) -> 구현(working) -> 보고(report)**의 사이클을 준수하며 작업지시자의 승인을 거칩니다.
+### 1. 레포지토리 클론
+이 프로젝트를 템플릿으로 사용하여 새 레포지토리를 생성하거나, 아래 명령어로 클론하여 새 프로젝트를 시작합니다.
+
+```bash
+git clone https://github.com/mannMae/ai-hyper-waterfall-template.git YOUR_PROJECT_NAME
+cd YOUR_PROJECT_NAME
+# 새 프로젝트로 시작할 경우 기존 git 기록을 삭제하고 새로 초기화할 수 있습니다.
+# rm -rf .git && git init
+```
+
+### 2. 프로젝트 구조 파악
+특별한 의존성 설치 없이 문서 체계를 활용하는 방식입니다.
+1.  `README.md`에서 전체적인 구조를 확인합니다.
+2.  **[매뉴얼 로드맵](mydocs/manual/READING_ROADMAP.md)**을 읽어 문서 작성 순서와 방법론을 숙지합니다.
+
+### 3. AI 에이전트(Antigravity) 온보딩
+새 대화를 시작할 때 AI에게 `ANTIGRAVITY.md` 파일을 읽게 하여 프로젝트의 규칙과 워크플로우를 학습시킵니다.
+
+> "이 프로젝트의 `ANTIGRAVITY.md` 파일과 `mydocs/manual/` 폴더 내 가이드라인을 읽고, Hyper-Waterfall 방법론에 따라 작업을 수행해줘."
+
+### 4. 첫 번째 타스크 시작
+`mydocs/orders/` 폴더에 오늘 날짜의 파일(예: `20240428.md`)을 생성하고, 수행할 타스크를 기록하며 AI와 협업을 시작합니다.
 
 ## ⚖️ 원칙 (The 3 Principles)
 
